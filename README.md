@@ -1,0 +1,33 @@
+# OpenCV 学习笔记 
+
+[![Stars](https://img.shields.io/github/stars/AccumulateMore/OpenCV?style=flat-square)](https://github.com/AccumulateMore/OpenCV/stargazers)
+[![Forks](https://img.shields.io/github/forks/AccumulateMore/OpenCV?style=flat-square)](https://github.com/AccumulateMore/OpenCV/network/members)
+[![Language](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange?style=flat-square)](https://jupyter.org/)
+
+本仓库整理了超级全面的 OpenCV 学习笔记。笔记采用 Jupyter Notebook 编写，涵盖了从基础图像处理到高级特征匹配、背景建模等核心技术，是保研项目积累或校招面试准备的优秀参考资料。
+
+---
+
+
+## 📂 课程章节导航
+笔记按知识点循序渐进，主要内容包括：
+
+| 章节 | 内容概览 | 章节 | 内容概览 |
+| :--- | :--- | :--- | :--- |
+| **01-04** | 图像读取、显示、灰度处理、HSV空间 | **15-16** | 算子(Sobel/Canny)边缘检测 |
+| **05-07** | 视频处理、ROI区域定义、边界填充 | **17-18** | 图像金字塔与轮廓检测 |
+| **08-10** | 图像融合、缩放与阈值处理 | **19-21** | 模板匹配、直方图、傅里叶变换 |
+| **11-14** | 平滑处理、形态学(腐蚀/膨胀/开闭运算) | **22-24** | 角点检测、SIFT、特征匹配与全景拼接 |
+| **25-26** | 背景建模、光流估计 | | |
+
+## 🛠 使用说明
+1. **环境建议**：推荐使用 **Anaconda** 的 Jupyter Notebook 打开 `.ipynb` 文件，以确保图片和公式正常显示。
+2. **目录插件**：建议安装 **Vscode插件** 方便跳转章节。
+  
+## 💡 核心价值
+- **理论+代码**：每个知识点均配有可运行的 Python 代码。
+- **项目向**：包含全景图像拼接、背景建模等具有实际意义的 Demo，适合作为简历/保研项目的技术支撑。
+
+---
+
+*Happy Coding & Good Luck in Contests!* 🚀
