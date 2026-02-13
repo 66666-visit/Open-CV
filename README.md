@@ -1,7 +1,5 @@
 # OpenCV 学习笔记 
 
-[![Stars](https://img.shields.io/github/stars/AccumulateMore/OpenCV?style=flat-square)](https://github.com/AccumulateMore/OpenCV/stargazers)
-[![Forks](https://img.shields.io/github/forks/AccumulateMore/OpenCV?style=flat-square)](https://github.com/AccumulateMore/OpenCV/network/members)
 [![Language](https://img.shields.io/badge/Language-Jupyter%20Notebook-orange?style=flat-square)](https://jupyter.org/)
 
 本仓库整理了超级全面的 OpenCV 学习笔记。笔记采用 Jupyter Notebook 编写，涵盖了从基础图像处理到高级特征匹配、背景建模等核心技术，是保研项目积累或校招面试准备的优秀参考资料。
